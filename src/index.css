@@ -1,0 +1,21 @@
+.calculator-body {
+  max-width: 250px;
+  margin: auto;
+  background-color: aquamarine;
+}
+
+.result p{
+  font-size: 30px;
+  margin: auto;
+  height: 40px;
+  padding: 5px;
+  background-color:yellowgreen;
+  text-align: center;
+}
+
+button{
+  display:inline-block;
+  background-color: bisque;
+  width: 25%;
+  height: 40px;
+}
